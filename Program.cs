@@ -11,18 +11,9 @@ internal class Program
 
         using (AppDbContext context = new AppDbContext())
         {
-            // Create Operations
-
-
-            // Read Operations
-
-
-            // Update Operations
-
-
-            // Delete Operations
+         
         }
 
-        Console.WriteLine("\nProgram Finished.");
+        Console.WriteLine("Program Finished.");
     }
 }
